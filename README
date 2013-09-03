@@ -1,3 +1,8 @@
+Dependencies
+------------
+numpy
+DeModel (http://www.dilloneng.com/documents/downloads/demodel/view)
+
 fixed_point is a python module for fixed-point arithmetic, implemented as
 an extension of deModel.  To run the examples ('examples_fixed_point.py'),
 the folder fixed_point/ must be visible from the PYTHONPATH.
