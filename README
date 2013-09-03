@@ -1,0 +1,7 @@
+fixed_point is a python module for fixed-point arithmetic, implemented as
+an extension of deModel.  To run the examples ('examples_fixed_point.py'),
+the folder fixed_point/ must be visible from the PYTHONPATH.
+
+Complex multiplication using the class 'fixed_point.ComplexFixedInt' has 
+been verified as bit-accurate against XSG. Bit-accurate rounding is still
+to be implemented. 
